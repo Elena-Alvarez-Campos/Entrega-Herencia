@@ -15,5 +15,6 @@ public class Main {
         Gerente gerente1 = new Gerente("Denis",1500,"Marketing");
         System.out.println(gerente1);
         System.out.println(gerente1.calcularSalario());
+
     }
 }
