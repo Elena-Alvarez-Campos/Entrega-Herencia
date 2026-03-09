@@ -22,7 +22,7 @@ public class Empleado {
         return nombre;
     }
 
-    //Métodos
+    //Métodos//
     public double calcularSalario(){
         return this.salarioBase;
     }
